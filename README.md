@@ -7,4 +7,4 @@ python main.py
 导入MyApplicaiton
 并run运行到手机上，即可获取pytho端回传的数据
 
-![效果图片](/test.jpg "效果图片")
+<img src='test.jpg'  width="50%" />
