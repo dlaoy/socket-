@@ -6,3 +6,5 @@ python main.py
 ### 步骤二
 导入MyApplicaiton
 并run运行到手机上，即可获取pytho端回传的数据
+
+![效果图片](/test.jpg "效果图片")
